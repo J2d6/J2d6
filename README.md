@@ -1,4 +1,4 @@
-<p align = center ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=253ABD&background=FFDDF600&center=true&vCenter=true&random=false&width=444&height=56&lines=+++++++++++++++++++++++++++++++++++++++++I'm+Jordany;++++++++++++++++Javascript+%2F+Typescript+developper" alt="Typing SVG" /></a>
+<p align = center ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=253ABD&background=FFDDF600&center=true&vCenter=true&random=false&width=444&height=56&lines=+++++++++++++++++++++++++++++++++++++++++I'm+Jordany;++++++++++++++++Javascript+%2F+Typescript+developer" alt="Typing SVG" /></a>
 </p>
 <p align="center">
       <a href="https://www.linkedin.com/in/jordany-dimbiniaina/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
